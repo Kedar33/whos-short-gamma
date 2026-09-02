@@ -1,0 +1,45 @@
+{
+  "coverage": 1.0,
+  "imbalance_curve": [
+    {
+      "imbalance": 1.0,
+      "share_identified": 0.0,
+      "median_rel_width": 44.37030686149548
+    },
+    {
+      "imbalance": 1.1,
+      "share_identified": 0.0,
+      "median_rel_width": 36.915631432537964
+    },
+    {
+      "imbalance": 1.25,
+      "share_identified": 0.0,
+      "median_rel_width": 15.938073665869405
+    },
+    {
+      "imbalance": 1.5,
+      "share_identified": 0.0,
+      "median_rel_width": 8.369051853647758
+    },
+    {
+      "imbalance": 2.0,
+      "share_identified": 0.0,
+      "median_rel_width": 4.325419551104684
+    },
+    {
+      "imbalance": 3.0,
+      "share_identified": 0.32666666666666666,
+      "median_rel_width": 2.0820547747272844
+    },
+    {
+      "imbalance": 5.0,
+      "share_identified": 0.8433333333333334,
+      "median_rel_width": 1.2009783407771348
+    },
+    {
+      "imbalance": 10.0,
+      "share_identified": 0.9233333333333333,
+      "median_rel_width": 1.050093491310185
+    }
+  ]
+}

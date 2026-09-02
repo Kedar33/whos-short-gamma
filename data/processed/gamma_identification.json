@@ -1,0 +1,194 @@
+[
+  {
+    "date": "2025-06-02",
+    "wing": "C",
+    "participant": "Client",
+    "lo": -328086786259.5458,
+    "hi": 244450268277.23404,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "C",
+    "participant": "DII",
+    "lo": 258601.6319725646,
+    "hi": 24986410.69067416,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "C",
+    "participant": "FII",
+    "lo": -99922099369.30737,
+    "hi": 159449116899.13025,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "C",
+    "participant": "Pro",
+    "lo": -207718359515.71326,
+    "hi": 262008333524.97797,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "P",
+    "participant": "Client",
+    "lo": -289608170634.1735,
+    "hi": 215974552106.83203,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "P",
+    "participant": "DII",
+    "lo": 12267341.563896045,
+    "hi": 3842029976.195552,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "P",
+    "participant": "FII",
+    "lo": -93958303504.4451,
+    "hi": 170729391953.80023,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-02",
+    "wing": "P",
+    "participant": "Pro",
+    "lo": -199995155201.2211,
+    "hi": 225320963237.919,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "C",
+    "participant": "Client",
+    "lo": -475629124813.5876,
+    "hi": 432614253534.0463,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "C",
+    "participant": "DII",
+    "lo": 117447.90868468107,
+    "hi": 30859970.904768996,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "C",
+    "participant": "FII",
+    "lo": -183355874625.40338,
+    "hi": 230322727829.42197,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "C",
+    "participant": "Pro",
+    "lo": -375243642112.005,
+    "hi": 403259186036.75415,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "P",
+    "participant": "Client",
+    "lo": -410103862482.22595,
+    "hi": 353152268336.915,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "P",
+    "participant": "DII",
+    "lo": 11537502.22688536,
+    "hi": 5789823828.167789,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "P",
+    "participant": "FII",
+    "lo": -206961589781.46387,
+    "hi": 280263292783.99054,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-03",
+    "wing": "P",
+    "participant": "Pro",
+    "lo": -309163022140.6596,
+    "hi": 331389558106.38306,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "C",
+    "participant": "Client",
+    "lo": -745287929577.8174,
+    "hi": 690406126750.4136,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "C",
+    "participant": "DII",
+    "lo": 108899.93978604287,
+    "hi": 60246760.29014419,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "C",
+    "participant": "FII",
+    "lo": -353083876267.05804,
+    "hi": 411517008501.26074,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "C",
+    "participant": "Pro",
+    "lo": -619187997948.8406,
+    "hi": 670084480286.573,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "P",
+    "participant": "Client",
+    "lo": -584199450215.7023,
+    "hi": 540790548158.8529,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "P",
+    "participant": "DII",
+    "lo": 9319979.181271423,
+    "hi": 8641726565.855816,
+    "spans_zero": false
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "P",
+    "participant": "FII",
+    "lo": -335669108038.2831,
+    "hi": 398678803754.4912,
+    "spans_zero": true
+  },
+  {
+    "date": "2025-06-04",
+    "wing": "P",
+    "participant": "Pro",
+    "lo": -483007337054.5719,
+    "hi": 506068542794.251,
+    "spans_zero": true
+  }
+]

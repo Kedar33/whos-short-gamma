@@ -1,0 +1,24 @@
+building daily gamma intervals (Theorem 2 closed form) ...
+  days with a valid interval: 238
+  merged with NIFTY volatility: n = 237
+
+  gamma interval width: median 26,923.6 mn
+  every interval contains zero: True
+
+========================================================================
+IDENTIFIED SET FOR beta IN  RV_{t+1} = alpha + beta * G_t + eps
+========================================================================
+  midpoint-plug-in estimate (what a researcher would report): -0.000025
+  identified set (inner approximation): [-0.000025, +0.000002]
+  contains zero: True
+  selections evaluated: 4,083
+  share of selections giving beta > 0: 40.3%
+
+  a one-standard-deviation move in G shifts next-day volatility by
+    between -0.1714 and +0.0154 annualised vol points
+    (midpoint plug-in would say -0.1714)
+
+wrote data/processed/interval_regression.json
+STATUS: inner approximation; the true identified set is at least this wide.
+
+[exited with code 0]

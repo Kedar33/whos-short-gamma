@@ -1,0 +1,9 @@
+{
+  "rows_compared": 96,
+  "sign_agree": 96,
+  "median_rel_lo": 1.0809121020998216e-15,
+  "median_rel_hi": 1.0566113550814998e-15,
+  "max_rel": 8.090943992360247e-15,
+  "both_contain_zero": 96,
+  "replicated": true
+}

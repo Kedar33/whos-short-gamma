@@ -1,0 +1,15 @@
+name: india-options
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy>=2.2
+  - pandas>=2.2
+  - scipy>=1.14          # linprog (HiGHS) for the identification LPs
+  - matplotlib>=3.9
+  - pyarrow>=17          # parquet panels
+  - pytest>=8
+  - pip
+# No API keys and no paid data sources are required.
+# All inputs are free, unauthenticated NSE public archive files fetched over
+# HTTPS by the standard library; see DATA_LOG.md.
