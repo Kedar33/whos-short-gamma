@@ -102,7 +102,8 @@ See `LICENSE`.
 
 ## Citation
 
-> Sahu, K. (2026). *Who's Short Gamma? Nobody Knows.* Working paper.
+> Kedar Sahu, (2026). *Who's Short Gamma? Nobody Knows.* Working paper.
+> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7398538
 
 If you use the identification machinery, the closed-form endpoints in
 `src/flip_level.py` and the interval-regression bounds in
